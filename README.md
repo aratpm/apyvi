@@ -10,8 +10,8 @@
 
 
 
-"title":"Updated",
-"about":"Updated for new and More Videos",
+"title":"Update Available!",
+"about":"Please update the app to watch new and More Videos",
 "update":"com.master.apyarvideos",
 "version":1
 
