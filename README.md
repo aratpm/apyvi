@@ -1,5 +1,5 @@
 {"status":true,
-"linkone":"https://www.google.com/",
+"linkone":"https://aratpm.github.io/apyvi/",
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-1179025313038187~9573318981",
