@@ -3,8 +3,8 @@
 "linktwo":"https://www.google.com/",
 
 "appId":"ca-app-pub-2449640894622823~6446286718",
-"banner":"ca-app-pub-2449640894622823/1193960033",
-"interstial":"ca-app-pub-2449640894622823/5511359437",
+"banner":"NOca-app-pub-2449640894622823/1193960033",
+"interstial":"NOca-app-pub-2449640894622823/5511359437",
 "AppOpen":"ca-app-pub-2449640894622823/2315470010",
 "linkbackup":"https://aratpm.github.io/apyvi/",
 
