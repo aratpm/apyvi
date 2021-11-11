@@ -1,6 +1,6 @@
 {"status":true,
-"linkone":"https://aratpm.github.io/apyvi/",
-"linktwo":"https://www.google.com/",
+"linkoneBCK":"https://aratpm.github.io/apyvi/",
+"linkone":"https://www.google.com/",
 
 "appId":"ca-app-pub-2449640894622823~6446286718",
 "banner":"ca-app-pub-2449640894622823/1193960033",
