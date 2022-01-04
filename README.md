@@ -11,7 +11,7 @@
 
 "title":"ဆားဗားပြင်ဆင်နေပါသည်။",
 "about":"ဆော့ဝဲဆားဗားအားပြင်ဆင်နေပါသဖြင့်ကျေးဇူးပြုပြီးသည်းခံပေးပါ။",
-"update":"com.apyar.fullkar",
+"update":"com.apyarhd.apyarcars",
 "version":"2"
 
 
