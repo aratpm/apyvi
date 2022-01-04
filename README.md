@@ -1,6 +1,6 @@
 {"status":true,
 "linkone":"https://aratpm.github.io/apyvi/",
-"Alinkone":"https://www.google.com/",
+"demact":"https://aratpm.github.io/repa/",
 
 "appId":"ca-app-pub-2449640894622823~6446286718",
 "banner":"ca-app-pub-2449640894622823/1193960033",
