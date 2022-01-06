@@ -1,6 +1,6 @@
 {"status":true,
 "linkone":"https://aratpm.github.io/apyvi/",
-"demact":"https://aratpm.github.io/repa/",
+"demact":"https://mytukar.com/buy-car",
 
 "appId":"ca-app-pub-2449640894622823~6446286718",
 "banner":"ca-app-pub-2449640894622823/1193960033",
